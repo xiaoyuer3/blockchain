@@ -1,0 +1,1 @@
+1. 《Bitcoin: A Peer-to-Peer Electronic Cash System》2008-Satoshi Nakamoto 中本聪
